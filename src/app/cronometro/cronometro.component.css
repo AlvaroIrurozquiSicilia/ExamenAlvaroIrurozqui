@@ -1,0 +1,8 @@
+.content{
+    border: 5px solid gray;
+    width: 300px;
+    height: 500px;
+}
+.timer{
+    border: 5px solid black;
+}
