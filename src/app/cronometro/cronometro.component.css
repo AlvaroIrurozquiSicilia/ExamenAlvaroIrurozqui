@@ -6,3 +6,9 @@
 .timer{
     border: 5px solid black;
 }
+.times{
+    border: 5px solid gray;
+    padding: auto;
+    width: 300px;
+    height: 300px;
+}
